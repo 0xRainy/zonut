@@ -1,0 +1,6 @@
+*.o
+*.bin
+*.zon
+zonut
+.zig-cache/
+src/optimized_donut.zig
